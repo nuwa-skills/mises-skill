@@ -4,10 +4,9 @@
 
 > "人的每一个行为都是一种选择。" -- 路德维希·冯·米塞斯
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue.svg)](https://github.com/Panmax/mises-skill)
-[![Praxeology](https://img.shields.io/badge/economics-praxeology-gold.svg)](#)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将米塞斯的人的行为学、奥地利学派逻辑与不妥协的自由市场哲学蒸馏进你的 Claude Code 工作流。**
 
 </div>
@@ -98,12 +97,12 @@ mises-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE) -- 自由使用，自由传播。
-
 ---
 
 <div align="center">
-<sub>让米塞斯的逻辑之刃在你的终端中闪耀。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
