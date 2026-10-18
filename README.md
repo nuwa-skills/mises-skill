@@ -5,9 +5,9 @@
 > "人的每一个行为都是一种选择。" -- 路德维希·冯·米塞斯
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将米塞斯的人的行为学、奥地利学派逻辑与不妥协的自由市场哲学蒸馏进你的 Claude Code 工作流。**
+**将米塞斯的人的行为学、奥地利学派逻辑与不妥协的自由市场哲学蒸馏进你的 Claude Code 等 Agent Skills 客户端工作流。**
 
 </div>
 
@@ -47,7 +47,7 @@ npx skills add nuwa-skills/mises-skill
 
 ## 蒸馏了什么
 
-本 skill 将米塞斯思想的核心框架蒸馏为 Claude 可用的推理模式：
+本 skill 将米塞斯思想的核心框架蒸馏为 AI 可用的推理模式：
 
 - **人的行为学 (Praxeology)**：从"人有目的地行动"公理出发的演绎科学
 - **主观价值论**：价值不是客观存在的，而是个体主观赋予的
